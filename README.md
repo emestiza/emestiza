@@ -1,4 +1,4 @@
-# <div align="center"> Eric M. </div>
+# <div align="center"> About Me </div>
 ### <div align="center"> emestiza@u.rochester.edu | [Resume](https://gist.github.com/emestiza/2bc77620288dae1e7b9d71e22a8e568a#eric-mestiza) | [LinkedIn](https://www.linkedin.com/in/eric-mestiza) | [Portfolio](https://emestiza.github.io) | [GitHub](https://github.com/emestiza) </div>
 
 ### Profile
